@@ -9,6 +9,9 @@ const formData = require("express-form-data");
 const MIMEText = require('mimetext')
 
 
+
+// gmail api to send emails ,to read emails 
+
 const email = {
   name: "Hemanth Chowdary",
   addr:"hemanth@codersarts.com"
